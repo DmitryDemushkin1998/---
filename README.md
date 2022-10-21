@@ -22,4 +22,3 @@
 
 ## ✔️ [Экзаменационные билет №11](https://github.com/stankin/inet-2022/wiki/exam11)
 
-}
