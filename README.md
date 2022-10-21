@@ -11,7 +11,7 @@
 5. Размещение странички на хостинге.
 
 
-◀️ Ссылка на отчет [здесь](https://DmitryDemushkin1998.github.io/lab-demushkin/)
+◀️ Ссылка на отчет [здесь](https://github.com/DmitryDemushkin1998/lab-demushkin.git)
 
 
 ## ✔️ Лабораторная работа № 2
