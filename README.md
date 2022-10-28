@@ -40,7 +40,7 @@
 
 Результат работы в формате [.ptk](https://github.com/DmitryDemushkin1998/lab-demushkin/blob/main/Stsenariy_dlya_CPT.pka)
 
-Результат работы в формате [.pdf](https://github.com/DmitryDemushkin1998/lab-demushkin/blob/main/LB3_Petrishcheva.pdf)
+Результат работы в формате [.pdf](https://github.com/DmitryDemushkin1998/lab-demushkin/blob/main/LB3_Demushkin.pdf)
 
 
 ## ✔️ [Экзаменационные билет №11](https://github.com/stankin/inet-2022/wiki/exam11)
