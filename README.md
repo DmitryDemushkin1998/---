@@ -27,6 +27,7 @@
 2. [Балалаева Юлия](https://balalaevajulia.github.io/LabsInetTexnologii/) (Управление проектами)
 3. [Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
 4. [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
+
 Было выбрано название команды - The Legendary Four;
 
 Было спроектировано и разработано приложение, ознакомиться с которым можно на целевой странице (репозиторий);
