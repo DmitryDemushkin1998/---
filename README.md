@@ -50,4 +50,4 @@
 
 
 ## ✔️ [Экзаменационные билет №11](https://github.com/stankin/inet-2022/wiki/exam11)
-
+[Мой вклад в реферат](https://github.com/stankin/inet-2022/wiki/exam10-3/_compare/6ede788ed671ccb8e5828f2d2a2992c1908cef9c...444df2805cc74421afbe5631995ae4acfcc306aa)
