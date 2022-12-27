@@ -19,20 +19,18 @@
 
 В рамках достижения данной цели были выполнены следующие шаги:
 
-Была сформирована команда и распределены роли в проекте:
-      
-
+1. Была сформирована команда и распределены роли в проекте:
 ### Над проектами работали:
-1. [Григорян Артур](https://salemnight1.github.io) (Системное программирование)
-2. [Балалаева Юлия](https://balalaevajulia.github.io/LabsInetTexnologii/) (Управление проектами)
-3. [Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
-4. [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
+* [Григорян Артур](https://salemnight1.github.io) (Системное программирование)
+* [Балалаева Юлия](https://balalaevajulia.github.io/LabsInetTexnologii/) (Управление проектами)
+* [Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
+* [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
 
-Было выбрано название команды - [The Legendary Four] (https://github.com/DmitryDemushkin1998/lab-demushkin/blob/main/README.md/);
+2. Было выбрано название команды - The Legendary Four;(https://github.com/DmitryDemushkin1998/lab-demushkin/blob/main/README.md/);
 
-Было спроектировано и разработано приложение, ознакомиться с которым можно на целевой странице (репозиторий);
+3. Было спроектировано и разработано приложение, ознакомиться с которым можно на [целевой странице](https://ownc.avmenergo.ru) ([репозиторий](https://github.com/DmitryDemushkin1998/lab-demushkin/blob/main/README.md));
 
-Проект не был зарегистрирован на участие в конкурсе.
+4. Проект не был зарегистрирован на участие в конкурсе.
 
 ## ✔️ Лабораторная работа № 3
 В рамках третьей лабораторной работы необходимо изучить технологии и протоколы статической маршрутизации в Cisco Packet Tracer. Сценарий содержит логическую топологию в виде составной сети, моделирующей корпоративную сеть условного предприятия, подключенную к сети Интернет.
