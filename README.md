@@ -26,7 +26,7 @@
 * [Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
 * [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
 
-2. Было выбрано название команды - The Legendary Four;(https://github.com/DmitryDemushkin1998/lab-demushkin/blob/main/README.md/);
+2. Было выбрано название команды - The Legendary Four;
 
 3. Было спроектировано и разработано приложение, ознакомиться с которым можно на [целевой странице](https://ownc.avmenergo.ru) ([репозиторий](https://github.com/DmitryDemushkin1998/lab-demushkin/blob/main/README.md));
 
